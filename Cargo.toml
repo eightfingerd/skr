@@ -1,0 +1,10 @@
+[package]
+name = "skr"
+version = "0.0.1"
+authors = ["efd<eightfingerd@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+description = "a hight level skia library."
+
+[dependencies]
